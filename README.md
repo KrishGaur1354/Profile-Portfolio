@@ -12,7 +12,7 @@
 ---
 
 <h2>Website-Layout</h2>
-<a href="https://ibb.co/TmWZjP7"><img src="https://i.ibb.co/t8LSjYv/Profile-Portfolio.png" alt="Profile-Portfolio" border="0"></a>
+<a href="https://krishgaur1354.github.io/Profile-Portfolio/"><img src="https://i.ibb.co/t8LSjYv/Profile-Portfolio.png" alt="Profile-Portfolio" border="0"></a>
 
 ---
 
