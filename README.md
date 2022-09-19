@@ -1,4 +1,4 @@
-### Profile-Portfolio
+<h1>Profile-Portfolio</h1>
 
 ![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
@@ -11,12 +11,12 @@
 
 ---
 
-### Website-Layout
+<h2>Website-Layout</h2>
 <a href="https://ibb.co/TmWZjP7"><img src="https://i.ibb.co/t8LSjYv/Profile-Portfolio.png" alt="Profile-Portfolio" border="0"></a>
 
 ---
 
-### Connect with me
+<h2>Connect with me: </h2>
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
