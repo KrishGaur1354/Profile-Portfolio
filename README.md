@@ -6,7 +6,6 @@
 ![Youtube Second channel subscribers](https://img.shields.io/youtube/channel/subscribers/UChVQCKleV_WKpQkPu_8nozw?style=social)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
-
 ![Profile-Portfolio](https://socialify.git.ci/KrishGaur1354/Profile-Portfolio/image?font=Raleway&language=1&logo=https%3A%2F%2Fi.ibb.co%2Fkmpxcn5%2Fdownload-1-removebg-preview.png&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 ---
