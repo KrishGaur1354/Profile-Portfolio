@@ -17,8 +17,8 @@
 
 ### Lindedin Profile : 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="krish-gaur-005911183" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/krish-gaur-005911183?trk=profile-badge">Krish Gaur</a></div>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="krish-gaur-005911183" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/krish-gaur-005911183?trk=profile-badge"><b>Krish Gaur Linkedin Profile</b></a></div>
+<a href="https://krishgaur-profile.netlify.app/"><b>Other Netify Profile</b></a>
 <h2>Connect with me: </h2>
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
