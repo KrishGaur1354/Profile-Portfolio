@@ -1,4 +1,4 @@
-<h1>Profile-Portfolio</h1>
+# Profile-Portfolio
 
 ![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
@@ -10,7 +10,7 @@
 
 ---
 
-<h2>Website-Layout</h2>
+## Website-Layout
 <a href="https://krishgaur1354.github.io/Profile-Portfolio/"><img src="https://i.ibb.co/t8LSjYv/Profile-Portfolio.png" alt="Profile-Portfolio" border="0"></a>
 
 ---
